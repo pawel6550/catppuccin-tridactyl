@@ -1,7 +1,7 @@
 # catppuccin-tridactyl
 
 ## Install
-`:colourscheme --url https://raw.githubusercontent.com/lonepie/catppuccin-tridactyl/main/catppuccin.css catppuccin`
+`:colourscheme --url https://raw.githubusercontent.com/pawel6550/catppuccin-tridactyl/main/catppuccin.css catppuccin`
 
 ## Customization
 - Fork the repo

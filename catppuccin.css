@@ -46,7 +46,7 @@
 
 #command-line-holder {
     order: 1;
-    border: 2px solid var(--lavender);
+    border: 2px solid var(--green);
     background: var(--tridactyl-bg);
 }
 
@@ -148,7 +148,7 @@
     padding: 1rem 1rem 0 !important;
     padding-left: unset;
     padding-bottom: 0.2rem;
-    color: var(--peach);
+    color: var(--green);
 }
 
 #cmdline_iframe {
