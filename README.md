@@ -1,12 +1,12 @@
 # catppuccin-tridactyl
 
 ## Install
-`:colourscheme --url https://raw.githubusercontent.com/pawel6550/catppuccin-tridactyl/main/catppuccin.css catppuccin`
+`:colourscheme --url https://raw.githubusercontent.com/pawel6550/catppuccin-tridactyl/master/catppuccin.css catppuccin`
 
 ## Customization
 - Fork the repo
 - Edit CSS vars to change colors/font to your preference
-- Use `:colourscheme --url https://raw.githubusercontent.com/pawel6550/catppuccin-tridactyl/main/catppuccin.css catppuccin_custom` command to set your custom theme
+- Use `:colourscheme --url https://raw.githubusercontent.com/pawel6550/catppuccin-tridactyl/master/catppuccin.css catppuccin_custom` command to set your custom theme
 
 ### Example: 
 
